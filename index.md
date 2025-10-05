@@ -1,6 +1,5 @@
-# Responsible AI — Free Resources
 
-This repository is a curated collection of **free high-quality resources** on responsible AI topics (fairness, transparency, interpretability, governance,...). 
+This repository is a curated collection of **free high-quality resources** on responsible AI topics, including fairness, transparency, interpretability, governance. 
 
 Most resources are from 2020 or later and have been validated as of September 2025.  
 They are organized by type (books, frameworks, toolkits, datasets, courses) so you can select the best resources based on your needs.  
