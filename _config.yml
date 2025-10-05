@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme 
 
-title: [Responsible AI - Free resources]
-description: [A curated collection of free high-quality resources on responsible AI topics]
+title: Responsible AI - Free resources
+description: A curated collection of free high-quality resources on responsible AI topics
