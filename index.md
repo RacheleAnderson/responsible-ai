@@ -7,7 +7,7 @@ They are organized by type (books, frameworks, toolkits, datasets, courses) so y
 ---
 
 ## 📚 Books (free online)
-- **Fairness and Machine Learning: Limitations and Opportunities** (Barocas, Hardt, Narayanan) — [fairmlbook.org](https://fairmlbook.org/) | [PDF](https://fairmlbook.org/pdf/fairmlbook.pdf)  
+- **Fairness and Machine Learning: Limitations and Opportunities** (Barocas, Hardt, Narayanan) — [fairmlbook.org](https://fairmlbook.org/)  [PDF](https://fairmlbook.org/pdf/fairmlbook.pdf)  
 - **Interpretable Machine Learning** (Christoph Molnar) — [Online Book](https://christophm.github.io/interpretable-ml-book/) (CC BY-NC-SA 4.0 license)
 -  **Trustworthy Machine Learning** (Mucsányi, Kirchhof, Nguyen, Rubinstein & Oh)  — [Online Book](https://trustworthyml.io/) (Open access under CC BY 4.0)  
   
@@ -30,16 +30,16 @@ They are organized by type (books, frameworks, toolkits, datasets, courses) so y
 ---
 
 ## 🛠 Toolkits & Libraries
-- **Fairlearn** — [Website](https://fairlearn.org/) | [GitHub](https://github.com/fairlearn/fairlearn)  
-- **AI Fairness 360 (AIF360)** — [Website](https://ai-fairness-360.org/) | [GitHub](https://github.com/Trusted-AI/AIF360)  
-- **Microsoft Responsible AI Toolbox** — [Website](https://responsibleaitoolbox.ai/) | [GitHub](https://github.com/microsoft/responsible-ai-toolbox)  
-- **Captum (PyTorch)** — [Website](https://captum.ai/) | [Docs](https://captum.ai/tutorials)
+- **Fairlearn** — [Website](https://fairlearn.org/)  [GitHub](https://github.com/fairlearn/fairlearn)  
+- **AI Fairness 360 (AIF360)** — [Website](https://ai-fairness-360.org/)  [GitHub](https://github.com/Trusted-AI/AIF360)  
+- **Microsoft Responsible AI Toolbox** — [Website](https://responsibleaitoolbox.ai/)  [GitHub](https://github.com/microsoft/responsible-ai-toolbox)  
+- **Captum (PyTorch)** — [Website](https://captum.ai/)  [Docs](https://captum.ai/tutorials)
 
 ---
 
 ## 📊 Datasets & Benchmarks
 - **RealToxicityPrompts (2020)**  — [HuggingFace Dataset](https://huggingface.co/datasets/allenai/real-toxicity-prompts)  
-- **HolisticBias (2022) & Multilingual HolisticBias (2023)**  — [arXiv](https://arxiv.org/abs/2205.09209) | [EMNLP 2023 PDF](https://aclanthology.org/2023.emnlp-main.874.pdf)
+- **HolisticBias (2022) & Multilingual HolisticBias (2023)**  — [arXiv](https://arxiv.org/abs/2205.09209)  [EMNLP 2023 PDF](https://aclanthology.org/2023.emnlp-main.874.pdf)
 
 ---
 
@@ -53,7 +53,7 @@ They are organized by type (books, frameworks, toolkits, datasets, courses) so y
 ## 🌐 Extras
 - **Azure ML Fairness Concept Guide**  — [Docs](https://learn.microsoft.com/en-us/azure/machine-learning/concept-fairness-ml)  
 - **Google AI Principles & Reports**  — [AI Principles](https://ai.google/principles/)
-- **OpenAI System Cards**  — [o1 System Card](https://openai.com/index/openai-o1-system-card/) | [GPT-4o System Card (PDF)](https://cdn.openai.com/gpt-4o-system-card.pdf)
+- **OpenAI System Cards**  — [o1 System Card](https://openai.com/index/openai-o1-system-card/)  [GPT-4o System Card (PDF)](https://cdn.openai.com/gpt-4o-system-card.pdf)
 - **Learning from the past to create Responsible AI** — [Github page](https://romanlutz.github.io/ResponsibleAI/)
 
 ---
